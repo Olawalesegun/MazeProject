@@ -1,2 +1,2 @@
 # A project By Segun Olawale
-`Mastering the Django`
+`Mastering the Django Render, Response`
