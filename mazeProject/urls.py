@@ -18,5 +18,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('customer/', include('maze_app.urls'))
+    path('customer/', include('maze_app.api.urls'))
 ]
