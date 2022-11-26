@@ -10,3 +10,5 @@
  create mode 100644 maze_app/api/urls.py
  create mode 100644 maze_app/api/views.py
  rewrite maze_app/views.py (99%)
+[main ce10e98] Converting Complex Data type to Native through serializers
+ 1 file changed, 10 insertions(+)
